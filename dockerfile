@@ -1,2 +1,2 @@
-FROM almaalmalinux:latest
+FROM almalinux:latest
 
